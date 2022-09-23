@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chunming He 何春明"
-  avatar           : "chunminghe.jpg"
+  avatar           : "/file/chunminghe.jpg"
   bio              : "Master at Tsinghua University"
   location         : "Nanshan, Shenzhen, China"
   employer         :
